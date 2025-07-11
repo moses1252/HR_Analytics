@@ -12,7 +12,7 @@
 
 This data analysis project explores employee turnover trends using SQL and Power BI. By analyzing HR data across gender, department, and job role, the goal is to uncover patterns in workforce movement and provide insights to help improve employee retention and organizational planning.
 
-![Dashboard](final_dashboard.JPG)
+put dash here
 
 ### Data Sources
 
